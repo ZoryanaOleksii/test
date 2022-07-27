@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c95894ca-7a5e-43fb-b50c-5bf187c34f51" name="Changes" comment="'New homework from lesson2'">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c95894ca-7a5e-43fb-b50c-5bf187c34f51" name="Changes" comment="'New homework from lesson3'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/lesson_2/variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/My_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/input.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +32,11 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my_project\hillel_homework" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.variables">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -106,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658936057894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'New homework from lesson3'">
+      <created>1658945401115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945401115</updated>
+    </task>
+    <task id="LOCAL-00003" summary="'New homework from lesson3'">
+      <created>1658945604616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945604616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'New homework from lesson2'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'New homework from lesson2'" />
+    <MESSAGE value="'New homework from lesson3'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'New homework from lesson3'" />
   </component>
 </project>
