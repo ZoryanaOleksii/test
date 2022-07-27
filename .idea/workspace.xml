@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c95894ca-7a5e-43fb-b50c-5bf187c34f51" name="Changes" comment="'New homework from lesson3'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/My_name.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/input.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/My_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/input.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my_project\hillel_homework\test\lesson3" />
       <recent name="D:\my_project\hillel_homework" />
     </key>
   </component>
