@@ -11,3 +11,5 @@ print('Every pupil have ' +str(var) + ' apples')
 # number of apples left in box
 var1 = N % K
 print (str(var1) + ' aplles left in box')
+
+print ('good bye')
