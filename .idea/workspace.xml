@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c95894ca-7a5e-43fb-b50c-5bf187c34f51" name="Changes" comment="1900 and 1000000">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/math_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/math_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/year.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="D:\my_project\hillel_homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.math_classes">
+  <component name="RunManager" selected="Python.year">
     <configuration name="07.28.22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.math_classes" />
         <item itemvalue="Python.year" />
+        <item itemvalue="Python.math_classes" />
         <item itemvalue="Python.password" />
         <item itemvalue="Python.apple" />
         <item itemvalue="Python.07.28.22" />

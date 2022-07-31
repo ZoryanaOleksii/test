@@ -11,7 +11,7 @@ elif year % 400 == 0:
 
 # if year divide by 100 it is not leep
 elif year % 100 == 0:
-   print(str(year + 'is not leep year'))
+   print(str(year) + '  is not leep year')
 
 # if year divide by 4 it is leep
 elif year%4 == 0:
