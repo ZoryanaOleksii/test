@@ -2,7 +2,7 @@
 year = int(input('Please put year '))
 
 # year should be between 1900 and 1000000
-if year < 1900 or year > 1000000:
+if year <=  1900 or year >= 1000000:
     print ('program end')
 
 # if year divide by 400 it is leep
