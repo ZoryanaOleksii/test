@@ -4,9 +4,10 @@ var2 = list(input('Input the second list'))
 var3 = var1 + var2
 
 
-output = []
+x = 0
 for x in var3:
-    if x not in output:
-        output.append(x)
-print(len(output))
+    if var3.count(x) == 1:
+
+        print(x)
+
 
