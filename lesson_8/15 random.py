@@ -10,3 +10,8 @@ odd = len([i + 1 for i in array if i%2 == 0])
 print('Number of odd number is ' + str(odd))
 even = len([i + 1 for i in array if i%2 != 0])
 print('Number of even number is ' + str(even))
+
+if even > odd:
+    print('True')
+else:
+    print('False')
