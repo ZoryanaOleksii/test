@@ -2,7 +2,7 @@ txt = 'pythonlist'
 
 y = 0
 
-d = dict.fromkeys(txt, y)
+d =  dict.fromkeys(txt, y)
 print(d)
 
 for i in d:
