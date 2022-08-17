@@ -15,3 +15,7 @@ for i in d:
 
 print(d)
 
+max_element = max(d.values())
+print(max(d, key=d.get))
+print(max_element)
+# print("Max element of a dict: ", max_element, key=d.get)

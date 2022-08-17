@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c95894ca-7a5e-43fb-b50c-5bf187c34f51" name="Changes" comment="|">
-      <change afterPath="$PROJECT_DIR$/lesson_9/virsh.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_9/pythonlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/pythonlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/virsh.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/virsh.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -443,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660666167422</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="|">
+      <created>1660669449629</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1660669449629</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
