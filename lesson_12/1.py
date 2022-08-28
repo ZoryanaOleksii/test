@@ -19,7 +19,7 @@ def foo():
         for j in range(m - i - 1):
             if matrix[j] > matrix[j + 1]:
                 matrix[j], matrix[j + 1] = matrix[j + 1], matrix[j]
-    return
+
 print(matrix)
 
 
