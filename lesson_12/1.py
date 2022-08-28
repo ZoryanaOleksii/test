@@ -13,11 +13,9 @@ print(list(map(sum, zip(*matrix))))
 matrix = matrix + [list(map(sum, zip(*matrix)))]
 
 
-
-def foo():
-    for i in range(m - 1):
-        for j in range(m - i - 1):
-            if matrix[j] > matrix[j + 1]:
+for i in range(m - 1):
+    for j in range(m - i - 1):
+        if matrix[j] > matrix[j + 1]:
                 matrix[j], matrix[j + 1] = matrix[j + 1], matrix[j]
 
 print(matrix)
