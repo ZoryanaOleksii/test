@@ -11,11 +11,13 @@ matrix = [[random.randrange(1, 50) for _ in range(m)] for _ in range(m)]
 
 
 # matrix = matrix + [list(map(sum, zip(*matrix)))]
-
-for i in range(len(matrix)):
-    for j in matrix:
-        if matrix[i][j] //2  == 0:
-            print(matrix)
+i = 0
+j = 0
+for i in range(m):
+    for j in range(m):
+        if matrix[i][j] > matrix[i+1][j]:
+            matrix[i][j], matrix[i + 1][j] = matrix[i + 1][j], matrix[i][j]
+print(matrix)
 
 
 
